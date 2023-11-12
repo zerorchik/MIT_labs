@@ -11,3 +11,10 @@
 **Моделювання функції з двох змінних засобами нечіткої математики**
 
 ![image](https://github.com/zerorchik/MIT_labs/assets/103893849/07e7a770-c05f-486a-b36d-036dc2b27090)
+
+# Лабораторна 3
+
+**Дослідження алгоритму нечіткої кластеризації**
+
+![image](https://github.com/zerorchik/MIT_labs/assets/103893849/f6ac1dcb-7d85-4687-b39a-9c47a56cce8e)
+
