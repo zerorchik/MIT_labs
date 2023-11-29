@@ -18,3 +18,8 @@
 
 ![image](https://github.com/zerorchik/MIT_labs/assets/103893849/f6ac1dcb-7d85-4687-b39a-9c47a56cce8e)
 
+# Лабораторна 4
+
+**Моделювання функції двох змінних з двома входами і одним виходом на основі нейронних мереж**
+
+![image](https://github.com/zerorchik/MIT_labs/assets/103893849/09ad3d05-b9f2-4257-ae1f-a9a3fee50fb2)
