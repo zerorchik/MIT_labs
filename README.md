@@ -23,3 +23,9 @@
 **Моделювання функції двох змінних з двома входами і одним виходом на основі нейронних мереж**
 
 ![image](https://github.com/zerorchik/MIT_labs/assets/103893849/09ad3d05-b9f2-4257-ae1f-a9a3fee50fb2)
+
+# Лабораторна 5
+
+**Моделювання нейронної мережі Хебба**
+
+![image](https://github.com/zerorchik/MIT_labs/assets/103893849/aeb55f5e-60fc-4ecb-96b4-5998761ba801)
