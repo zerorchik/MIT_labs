@@ -29,3 +29,9 @@
 **Моделювання нейронної мережі Хебба**
 
 ![image](https://github.com/zerorchik/MIT_labs/assets/103893849/aeb55f5e-60fc-4ecb-96b4-5998761ba801)
+
+# Лабораторна 6
+
+**Нейро-нечітке моделювання**
+
+![image](https://github.com/zerorchik/MIT_labs/assets/103893849/33281f57-577b-4cd5-99dc-aac723990b28)
