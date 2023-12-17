@@ -35,3 +35,9 @@
 **Нейро-нечітке моделювання**
 
 ![image](https://github.com/zerorchik/MIT_labs/assets/103893849/33281f57-577b-4cd5-99dc-aac723990b28)
+
+# Лабораторна 7
+
+**Знаходження мінімуму та максимуму функцій за допомогою генетичних алгоритмів**
+
+![image](https://github.com/zerorchik/MIT_labs/assets/103893849/554a69ec-bbcc-42c7-b75a-3221d850414b)
