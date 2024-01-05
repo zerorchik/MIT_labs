@@ -88,17 +88,6 @@ if __name__ == "__main__":
     anf = anfis.ANFIS(X_train, y_train, mfc)
     anf.trainHybridJangOffLine(epochs=5)
 
-    # # Виведення початкової похибки
-    # error = np.sum((anf.Y - anf.fittedValues.T) ** 2)
-    # print('Початкова похибка:', error)
-    #
-    # # Тренування моделі
-    # for epoch in range(epochs):
-    #     anf.trainHybridJangOffLine(epochs=1)
-    #     # Виведення похибки на кожній епохі
-    #     error = np.sum((anf.Y - anf.fittedValues.T) ** 2)
-    #     print(f'Епоха {epoch + 1}, похибка: {error}')
-
     # Візуалізація графіка функції втрат та результатів навчання
     # Графік втрат
     anf.plotErrors()
